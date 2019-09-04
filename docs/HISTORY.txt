@@ -1,8 +1,8 @@
 Changelog
 =========
 
-12.1.1 - (unreleased)
-------------------------
+12.1.1 (2019-09-04)
+-------------------
 * Fix an issue with select widget where the synchronized value is ignored
   on the selected value section when value came from the URL
   [mpeeters]
