@@ -1,6 +1,12 @@
 Changelog
 =========
 
+12.1.2 (unreleased)
+-------------------
+
+- Nothing changed yet.
+
+
 12.1.1 (2019-09-04)
 -------------------
 * Fix an issue with select widget where the synchronized value is ignored
