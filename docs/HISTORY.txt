@@ -3,9 +3,9 @@ Changelog
 
 12.1.2 (unreleased)
 -------------------
-
-- Nothing changed yet.
-
+* Feature: The daterange widget automatically restricts date range in start date
+  calendar.
+  [daggelpop]
 
 12.1.1 (2019-09-04)
 -------------------
